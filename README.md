@@ -42,11 +42,13 @@ La aplicación implementa las siguientes funcionalidades:
 
 ## Esquema de la interfaz de la aplicacion
 
-
 +--------------------------------------------------+
 |        Gestor de Datos - Aplicación GUI          |
 +--------------------------------------------------+
+
         Ingrese un dato:  [______________]  [Agregar]
+
+
 +--------------------------------------------------+
 |                Datos Ingresados                  |
 |--------------------------------------------------|
@@ -56,4 +58,7 @@ La aplicación implementa las siguientes funcionalidades:
 |   dato 3                                         |
 |                                                  |
 +--------------------------------------------------+
+
                     [ Limpiar ]
+
+                    
