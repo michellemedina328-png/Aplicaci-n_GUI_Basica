@@ -3,7 +3,6 @@
 ## SEGUNDO SEMESTRE
 ## mm.moranm@uea.edu.ec
 
----
 
 # Aplicación GUI Básica con Tkinter
 
@@ -11,17 +10,6 @@ Este proyecto consiste en el desarrollo de una aplicación de interfaz gráfica 
 
 El objetivo principal es aplicar los conceptos básicos del desarrollo de interfaces gráficas, permitiendo la interacción entre el usuario y el sistema mediante componentes visuales como etiquetas, botones, campos de texto y tablas.
 
----
-
-# Estructura del Proyecto
-
-```
-Aplicacioón_GUI_Básica
-│
-├── app_gui.py
-└── README.md
-
----
 
 # Componentes de la Interfaz
 
@@ -34,7 +22,6 @@ La aplicación utiliza los siguientes elementos de la librería Tkinter:
   - Botón **Limpiar** para eliminar datos.
 - **Treeview (Tabla):** muestra los datos ingresados por el usuario.
 
----
 
 # Funcionalidades
 
@@ -46,14 +33,12 @@ La aplicación implementa las siguientes funcionalidades:
 - Eliminar datos seleccionados o limpiar completamente la tabla mediante el botón **Limpiar**.
 - Responder a eventos generados por el usuario, como clics en los botones.
 
----
 
 # Tecnologías Utilizadas
 
 - **Python**
 - **Tkinter** (Librería estándar para interfaces gráficas en Python)
 
----
 
 ## Esquema de la interfaz de la aplicacion
 
