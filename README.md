@@ -60,4 +60,3 @@ La aplicación implementa las siguientes funcionalidades:
 +--------------------------------------------------+
 
                     [ Limpiar ]
-           
